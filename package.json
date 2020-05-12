@@ -9,7 +9,7 @@
     "coffee-script": "^1.11.1",
     "express": "^4.14.0",
     "mongoose": "^4.6.2",
-    "kerberos": "^0.0.21",
+    "kerberos": "^1.0.0",
     "mongoose-unique-validator": "^1.0.2",
     "mongoose-deep-populate": "^3.0.0",
     "commander": "^2.9.0",
