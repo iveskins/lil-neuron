@@ -1,10 +1,12 @@
 beautifulsoup4>=4.4.0
-numpy>=1.11.0
+numpy>=1.22.2
 pandas>=0.18.0
-scipy>=0.17.0
+scipy>=1.10.0rc1
 matplotlib>=1.5.3
-requests>=2.11.1
+requests>=2.31.0
 pymongo>=3.3.0
 theano>=0.8.2
 lasagne>=0.1
 tqdm>=4.8.4
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
